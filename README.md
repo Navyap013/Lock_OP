@@ -45,3 +45,13 @@ vite.config.js (if needed)
 4. Start the development server:
 
 npm run dev
+
+or if you have a production build:
+
+npm run build
+npm start
+
+
+5. Visit: http://localhost:3000 (or the port specified in your config).
+
+Project Structure

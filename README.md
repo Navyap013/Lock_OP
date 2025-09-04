@@ -28,3 +28,10 @@ These steps guide you through getting the project up and running locally.
    ```bash
    git clone https://github.com/Navyap013/Lock_OP.git
    cd Lock_OP
+
+
+2. Install dependencies:
+
+npm install
+
+3.

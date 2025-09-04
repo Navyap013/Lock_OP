@@ -34,4 +34,14 @@ These steps guide you through getting the project up and running locally.
 
 npm install
 
-3.
+3. Customize your config (e.g., environment variables, ports):
+
+tailwind.config.js
+
+postcss.config.js
+
+vite.config.js (if needed)
+
+4. Start the development server:
+
+npm run dev
